@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JefersonAssuite
+ @JefersonAssuite
 Estudante de Análise e Desenvolvimento de Sistemas, costumo utilizar esse repertório para salvar as atividades que são desenvolvidas no curso de python e durante as matérias da faculdade.
 
 Códigos simples apenas para praticar, a linguagem.
